@@ -1,0 +1,41 @@
+body {
+  background-color: #FAFDD6;
+  font-family: "Verdana", Helvetica Neue, Helvetica, sans-serif;
+  color: #5B5B5B;
+}
+
+h1 {
+  color: #E6BA95;
+}
+
+h2 {
+  color: #A2B38B;
+}
+
+h3 {
+  color: #A2B38B;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #E4E9BE;
+  border-width: 5px;
+}
+
+.roundImage {
+  border-radius: 100%;
+}
+
+.box1 {
+  width: 20%;
+  padding: 10px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.box2 {
+  width: 75%;
+  padding: 10px;
+  margin: 20px;
+  display: inline-block;
+}
